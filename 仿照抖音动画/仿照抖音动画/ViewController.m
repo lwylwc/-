@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"进来了");
     CGFloat cx = 5; //倍数
     CGFloat width = 50 * cx;
     CGFloat height = 45 * cx;
